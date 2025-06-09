@@ -1,0 +1,44 @@
+# Visual Studio generated files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+*.ncb
+*.aps
+*.pch
+*.idb
+*.ipch
+*.tlog
+*.lastbuildstate
+*.sdf
+*.dbmdl
+*.opendb
+*.opensdf
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# Build results
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Publish output
+publish/
+
+# Rider IDE files
+.idea/
+
+# Other files
+*.psess
+*.vsp
+*.vsix
+TestResults/
